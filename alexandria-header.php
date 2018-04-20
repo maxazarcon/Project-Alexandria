@@ -1,4 +1,4 @@
 <?php
 /** Loads the Project Alexandria environment and template */
 
-echo 'This is PHP' . PHP_EOL;
+echo 'A user tool for client/project management and team communication' . PHP_EOL;
