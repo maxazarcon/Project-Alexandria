@@ -5,4 +5,4 @@
  */
 
 /** Loads Project Alexandria */
-require( dirname( __FILE__ ) . '/alexandria-header.php' );
+require( ( __DIR__ ) . '/alexandria-header.php' );
